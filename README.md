@@ -5,9 +5,6 @@
 - Comando Git Push
 
 * testando atualizações
-
 * Segunda linha de testes Push
-
 * Comando Git Pull
-
 * Comando Git Fetch
