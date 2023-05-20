@@ -8,5 +8,6 @@
 * Segunda linha de testes Push
 * Comando Git Pull
 * Comando Git Fetch
+* João Pedro dos Santos
 
 ## Topicos apreendidos nas aulas de Git da bolsa Santander coders 2023
